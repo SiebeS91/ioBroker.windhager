@@ -1,0 +1,50 @@
+PREREQUISITES:
+Windhager Instance is running on iobroker as .0 "windhager.0"
+
+Datapoints are windhager OID numbers.
+internal: /1/15/0/0/0/0
+
+List of Datapoints: (German Naming)
+
+Außentemperatur
+windhager.0.datapoints.1.15.0.0.0.0.value
+
+Lagerraum
+windhager.0.datapoints.1.60.0.43.78.0.value
+Vorratsbehälter
+windhager.0.datapoints.1.60.0.43.42.0.value
+Brennstoffverbrauch Gesamt
+windhager.0.datapoints.1.60.0.23.103.0.value
+
+Laufzeit bis Wartung
+windhager.0.datapoints.1.60.0.20.63.0.value
+Laufzeit bis Hauptreinigung
+windhager.0.datapoints.1.60.0.20.62.0.value
+Laufzeit bis Reinigung
+windhager.0.datapoints.1.60.0.20.61.0.value
+
+Aktuelle Leistung
+windhager.0.datapoints.1.60.0.0.9.0.value
+Betriebsphase (numerisch)
+windhager.0.datapoints.1.60.0.2.1.0.value
+Kesseltemperatur
+windhager.0.datapoints.1.60.0.1.7.0.value
+Brennkammertemperatur
+windhager.0.datapoints.1.60.0.0.45.0.value
+Abgastemperatur
+windhager.0.datapoints.1.60.0.0.11.0.value
+
+Betriebsstunden
+windhager.0.datapoints.1.60.0.2.81.0.value
+Brennerstarts
+windhager.0.datapoints.1.60.0.2.80.0.value
+
+Warmwassertemperatur
+windhager.0.datapoints.1.17.0.0.4.0.value
+TPE (Temperatur Puffer Eingang)
+windhager.0.datapoints.1.16.1.21.66.0.value
+TPA (Temperatur Puffer Ausgang)
+windhager.0.datapoints.1.16.1.21.65.0.value
+
+Nennleistung Kessel (Kann verändert werden)
+windhager.0.datapoints.1.60.0.39.61.0.value
